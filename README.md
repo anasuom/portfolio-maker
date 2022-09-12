@@ -1,9 +1,5 @@
 ## Setup Steps
 
-- Go to directory
-```
-$ cd HashHub
-```
 - Install Dependencies
 ```
 $ npm install
